@@ -1,4 +1,4 @@
-"# Python Discord Bot - Bob Esponja"
+# Python Discord Bot - Bob Esponja
 ENG - 
 This is my first bot using python, i made this repositosy as a guide for those who are new to this lenguage.
 
